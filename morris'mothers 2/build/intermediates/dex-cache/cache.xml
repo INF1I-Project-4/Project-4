@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\nilmor\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\nilmor\Desktop\morris&apos;mothers\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_e8c2ad7404bea50f76dfdb36bcc0fe9d0779d3fc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nilmor\Desktop\morris&apos;mothers\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\nilmor\Desktop\morris&apos;mothers\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_7ebc39ac2b6b710f2dcc51d30d1a60e373182017\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nilmor\Desktop\morris&apos;mothers\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="C:\Users\nilmor\Desktop\morris&apos;mothers\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.0.0_33771c164396b4ab5402098565c819649bb09992\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nilmor\Desktop\morris&apos;mothers\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\nilmor\Desktop\morris&apos;mothers\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_6fd06f3f299101ff7f5c61829e10e5fc871b2935\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nilmor\Desktop\morris&apos;mothers\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\nilmor\Desktop\morris&apos;mothers\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_37e6db25a5055cab741a741d81d9ff0d32f7cc2f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nilmor\Desktop\morris&apos;mothers\app\libs\GraphView-4.0.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8bd182a66f13dedad362bfbf992be96de2be5969">
+        <dex dex="C:\Users\nilmor\Desktop\morris&apos;mothers\app\build\intermediates\transforms\dex\debug\folders\1000\2\GraphView-4.0.1_3ea8f2e0a305765071b427b497279bb402501e3e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nilmor\Desktop\morris&apos;mothers\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\nilmor\Desktop\morris&apos;mothers\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_15650978b9426598cdefdbcbbb90840a7a672d5a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nilmor\Desktop\morris&apos;mothers\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0fce35c00a8901d6b4bd157869db8cd7c389826f">
+        <dex dex="C:\Users\nilmor\Desktop\morris&apos;mothers\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_323d36a081cf6ac78bbd39d2cab79469f8487023\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nilmor\Desktop\morris&apos;mothers\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="C:\Users\nilmor\Desktop\morris&apos;mothers\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.0.0_ba1989695c02f5454c4d2b5a0fef7e712df835f6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nilmor\Desktop\morris&apos;mothers\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\nilmor\Desktop\morris&apos;mothers\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_fd331dcd32e5245bc10995e1d2f4681351d45a02\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nilmor\Desktop\morris&apos;mothers\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8548b7b5482aa915651dee434799b87f06f2d3d7">
+        <dex dex="C:\Users\nilmor\Desktop\morris&apos;mothers\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_24dfba5099370d2abca088c642e563f66e227aee\classes.dex" />
+    </item>
+
+</items>
